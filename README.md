@@ -1,6 +1,22 @@
 # CreacionUsuarios
 Este proyecto se creó utilizando Java 20 y Spring Boot.
 
+## Objetivo
+La creacion de usuarios es importante para el registro de datos en cualquier entidad, por lo que esta aplicacion proporciona las ideas claves sobre el almacenamiento de datos y validaciones que tiene un programa de registro.
+
+## Presentacion
+
+El inicio de la aplicacion esta en la siguiente imagen:
+
+![inicio](pproyectoBackend/inicio.png)
+
+Se puede observar la creacion de usuarios y una opcion de crear un nuevo usuario
+
+![formulario](proyectoBackend/formulario.png)
+
+Tendrás errores si no rellenas todos los campos
+![errores](proyectoBackend/errores.png)
+
 ## Instalación
 Asegúrate de tener Eclipse y MySQL Workbench instalados antes de descargar este proyecto.
 
