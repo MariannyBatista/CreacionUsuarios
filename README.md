@@ -8,7 +8,7 @@ La creacion de usuarios es importante para el registro de datos en cualquier ent
 
 El inicio de la aplicacion esta en la siguiente imagen:
 
-![inicio](pproyectoBackend/inicio.png)
+![inicio](proyectoBackend/inicio.png)
 
 Se puede observar la creacion de usuarios y una opcion de crear un nuevo usuario
 
